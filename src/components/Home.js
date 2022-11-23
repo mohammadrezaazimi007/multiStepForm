@@ -9,7 +9,7 @@ export const Home = () => {
     <>
       <Link style={{textDecoration:'none'}} to={"/login"}>
         <Button variant="contained" color="primary">
-          click for going to login page
+          click for going tsadfadsfo login page
         </Button>
       </Link>
     </>
