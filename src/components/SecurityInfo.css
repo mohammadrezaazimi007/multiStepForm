@@ -1,0 +1,26 @@
+/** @format */
+
+.form,
+.successfull {
+  width: 300px;
+  margin: 200px auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 2px solid rgb(100, 100, 111);
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+}
+.security-header {
+  margin: 0;
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+}
+.successfull {
+  width: 400px;
+  align-items: center;
+  gap: 0;
+  font-size: 20px;
+}
