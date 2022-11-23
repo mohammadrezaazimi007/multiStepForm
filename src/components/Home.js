@@ -7,9 +7,9 @@ export const Home = () => {
   console.log('home is render');
   return (
     <>
-      <Link style={{textDecoration:'none'}} to={"/login"}>
+      <Link style={{ textDecoration: 'none' }} to={'/login'}>
         <Button variant="contained" color="primary">
-          click for going to login page
+          click for going tttto login page
         </Button>
       </Link>
     </>
